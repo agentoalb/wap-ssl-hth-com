@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agentoalb.github.io/wap-ssl-hth-com/sitemap.xml
